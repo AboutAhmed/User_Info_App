@@ -27,8 +27,12 @@ lib/
 
  Ensure you have Flutter installed on your machine. If not, you can download and install it from the official Flutter website: https://flutter.dev/docs/get-started/install
 
-**Steps**:
-1. Clone the repository: `git clone https://github.com/AboutAhmed/user_info_app.git` and `cd user_info_app`
+Steps:
+
+1. Clone the repository: `git clone https://github.com/AboutAhmed/User_Info_App`.
 2. Install dependencies: Run the following command to install the required dependencies: `flutter pub get`
 3. Run the app: Make sure you have a device connected (emulator or physical device), and run: `flutter run`
-4. Using the app: Open the app and input a user ID. Tap the "Fetch User Data" button to load the user details, posts, and comments. If the user ID is valid, it will display the user info, posts, and comments related to the user. If invalid, an error message will be shown.
+4. Using the app: Open the app and input a user ID.
+5. Tap the "Fetch User Data" button to load the user details, posts, and comments.
+6. If the user ID is valid, it will display the user info, posts, and comments related to the user.
+7. If invalid, an error message will be shown.
